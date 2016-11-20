@@ -1,0 +1,37 @@
+body {
+    background-color: #FF9933;
+    /* text-align: center; */
+    margin: 0px;
+
+    font-family: sans-serif;
+	font-size: x-large;
+	font-weight: bolder;
+}
+
+header {
+    background-color: #FFFFFF;
+	padding: 10vh;
+}
+
+#logo {
+	width: 40vw;
+}
+
+main {
+    padding: 5vh;
+    background-color: #CC0033;
+    color: #FFFFFF;
+}
+
+article {
+    border-bottom: 3px solid #FFFFFF;
+}
+
+article:last-child {
+    border: none;
+}
+
+footer {
+    padding: 5vh;
+    background-color: #FF9933;
+}
