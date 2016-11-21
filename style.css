@@ -17,6 +17,12 @@ header {
 	width: 40vw;
 }
 
+@media only screen and (max-aspect-ratio: 4/3) {
+    #logo {
+        width: 100%;
+    }
+}
+
 main {
     padding: 5vh;
     background-color: #CC0033;
